@@ -13,8 +13,6 @@
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-Python" height="30" width="40" 
        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align = "center" alt ="Rafa-C" height = "30" width="40"
-        src = "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pngwing.com%2Fpt%2Fsearch%3Fq%3Dlogotipo%2BC&psig=AOvVaw1e0Ye_6wk0fnYLhzDwgsY9&ust=1716917334893000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCOj04cSuroYDFQAAAAAdAAAAABAE" >
 </div>
 
   ##
