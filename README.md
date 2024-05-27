@@ -1,8 +1,7 @@
 ### Olá! Eu sou a Ana Luiza. 😊
 - Cursando Análise e Desenvolvimento de Sistemas
-- Futura Desenvolvedora Front-End
-- Conhecimento em HTML | CSS | Python
-- Estudando JavaScript
+- Analista de Sistema, Vivo Telefônica. (ESTÁGIO)
+- Python | PL/SQL | SQL | HTML | CSS | C | Pacote Office
 - 😄 Pronouns: ela/dela
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=annaluiizadiniz&show_icons=true&theme=radical)
